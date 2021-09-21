@@ -1,0 +1,28 @@
+.titulo-pagina {
+  font-size: 30px;
+  color: red;
+  margin: 10px;
+  text-align: center;
+}
+
+img {
+  max-width: 100px;
+}
+
+.lista-noticia {
+  padding: 20px;
+}
+
+.noticia {
+  border: 1px solid black;
+  margin-bottom: 10px;
+  display: flex;
+  align-items: center;
+  padding: 10px;
+}
+
+.noticia-titulo {
+  font-size: 18px;
+  font-weight: bold;
+  margin-bottom: 8px;
+}
